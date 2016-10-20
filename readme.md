@@ -7,8 +7,8 @@ Your objective is to create a web page that displays each products title, descri
 
 You'll notice that there is only 1 file in this repo that contains the data. Here are some things you'll need to make or do to get this working:
 
-- Constructor function for a product
-- Constructor function for a product view
+- A class for a product
+- A class for a product view
 - a script file that puts it all together!
 - an html file that loads your JS files
 
